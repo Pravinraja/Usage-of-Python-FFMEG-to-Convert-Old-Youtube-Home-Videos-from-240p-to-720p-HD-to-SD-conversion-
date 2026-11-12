@@ -2,7 +2,7 @@
 
 # Archival Video Upscaler: 2005 Las Vegas Strip (240p to 720p HD)
 
-A Python-based media processing code that fetches standard-definition archival YouTube videos—such as vintage 2005 Las Vegas Strip walkthroughs—and upscales them from grainy **240p SD** into clean **720p HD**.
+A Python-based media processing code that fetches standard-definition archival YouTube videos—such as vintage 2005 Las Vegas Strip walkthroughs and drives and upscales them from grainy **240p SD** into clean **720p HD**.
 
 ---
 
